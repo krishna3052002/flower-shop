@@ -8,6 +8,8 @@ body {
 /* header style Start */
 .header {
     background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 100px;
+
 }
 
 .banner-title {
@@ -35,7 +37,8 @@ body {
     font-weight: 700;
     padding: 20px 43px;
 }
-.banner-content{
+
+.banner-content {
     padding-right: 90px;
 }
 
@@ -61,51 +64,94 @@ button:hover {
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
     padding: 100px 400px 100px 395px;
+    margin-bottom: 100px;
 }
-.text-heading{
+
+.text-heading {
     color: #272727;
     font-size: 40px;
-    font-weight: 800; 
-    margin-bottom: 0px; 
-    
+    font-weight: 800;
+    margin-bottom: 0px;
+
 }
-.text{
+
+.text {
     padding-right: 200px;
     text-align: center;
 }
-.text-descripton{
+
+.text-descripton {
     color: rgba(39, 39, 39, 0.60);
-font-size: 18px;
-font-weight: 400;
+    font-size: 18px;
+    font-weight: 400;
 }
+
 /*hot deal section style ends*/
- 
+
 /* instagram section style starts */
-.image-section{
-display: flex;
-display: contents;
+.image-section {
+    display: flex;
+    display: contents;
 }
-.instagram{
+
+.instagram {
     text-align: center;
 
 }
-.space{
+
+.space {
     padding-right: 12px;
 }
-.insta-text{
+
+.insta-text {
     color: #272727;
-font-size: 40px;
-font-weight: 800;
-margin-bottom: 5px;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 5px;
 }
 
-.insta-text-description{
+.insta-text-description {
     color: rgba(39, 39, 39, 0.60);
-font-size: 18px;
-font-weight: 400;
-margin-bottom: 50px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    
 }
+
 /* instagram section style ends */
 
 
 /* latest deal section starts*/
+
+
+/* footer section */
+footer{
+    text-align: center;
+    
+ background: #111010;
+}
+
+.flower-color{
+    color:#FFFFFF;
+ 
+}
+.footer-heading{
+   padding-top: 115px;
+   margin-bottom: 24px;
+    color:#E55473;
+font-size: 48px;
+font-weight: 800;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 24px;
+}
+.last-description{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+padding-bottom: 128px;
+}
