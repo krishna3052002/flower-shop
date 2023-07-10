@@ -15,6 +15,7 @@ body {
     font-size: 80px;
     font-weight: 800;
     padding-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .banner-description {
@@ -63,7 +64,8 @@ button:hover {
 .text-heading{
     color: #272727;
     font-size: 40px;
-    font-weight: 800;  
+    font-weight: 800; 
+    margin-bottom: 0px; 
     
 }
 .text{
@@ -74,7 +76,28 @@ button:hover {
     color: rgba(39, 39, 39, 0.60);
 font-size: 18px;
 font-weight: 400;
-padding-top: 0px;
-padding-bottom: 24px;
+}
+.image-section{
+display: flex;
+display: contents;
+}
+.instagram{
+    text-align: center;
 
+}
+.space{
+    padding-right: 12px;
+}
+.insta-text{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 5px;
+}
+
+.insta-text-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 50px;
 }
