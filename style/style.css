@@ -51,6 +51,7 @@ button:hover {
 
 /* header style Ends */
 
+/* Hot-deal-section style starts */
 .formate {
     display: flex;
     justify-content: space-between;
@@ -77,6 +78,9 @@ button:hover {
 font-size: 18px;
 font-weight: 400;
 }
+/*hot deal section style ends*/
+ 
+/* instagram section style starts */
 .image-section{
 display: flex;
 display: contents;
@@ -101,3 +105,7 @@ font-size: 18px;
 font-weight: 400;
 margin-bottom: 50px;
 }
+/* instagram section style ends */
+
+
+/* latest deal section starts*/
