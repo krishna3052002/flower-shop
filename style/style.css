@@ -54,7 +54,7 @@ button:hover {
 
 /* header style Ends */
 
-/* Bonus Section Stuyle */
+/* Bonus Section Style */
 .bonus-section {
 
     text-align: center;
@@ -117,22 +117,27 @@ button:hover {
 
 .fig {
     display: flex;
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
 }
 
 .text1 {
     text-decoration: underline;
-    margin: 32px 380px 0px 160px;
+    margin: 32px 325px 0px 130px;
 }
 
 .text2 {
     text-decoration: underline;
-    margin: 32px 380px 0px 0px;
+    margin: 32px 325px 0px 0px;
 }
 
 .text3 {
     text-decoration: underline;
     margin-top: 32px;
 }
+/* Bonus Section Style Ends */
+
 
 
 /* Hot-deal-section style starts */
