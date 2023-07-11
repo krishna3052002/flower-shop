@@ -56,10 +56,22 @@ button:hover {
 
 /* Bonus Section Stuyle */
 .bonus-section{
-    max-width:1000px ;
+  
     text-align: center;
-    margin: 0px auto;
+    margin: 100px 430px 100px 415px;
    
+}
+.section-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 0px;
+}
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 47px;
 }
 .Image-section{
     display: flex;
@@ -80,6 +92,7 @@ button:hover {
 .img2{
     border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
+margin-right: 24px;
 }
 #image2{
     padding: 117px 47px 118px 47px;
@@ -87,6 +100,7 @@ background: rgba(5, 151, 160, 0.15);
 .img3{
     border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
+margin-right: 24px;
 }
 #image3{
 padding:67px 75px 67px 75px;
