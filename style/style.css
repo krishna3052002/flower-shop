@@ -55,58 +55,84 @@ button:hover {
 /* header style Ends */
 
 /* Bonus Section Stuyle */
-.bonus-section{
-  
+.bonus-section {
+
     text-align: center;
     margin: 100px 430px 100px 415px;
-   
+
 }
-.section-title{
+
+.section-title {
     color: #272727;
-font-size: 40px;
-font-weight: 800;
-margin-bottom: 0px;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0px;
 }
-.section-description{
+
+.section-description {
     color: rgba(39, 39, 39, 0.60);
-font-size: 18px;
-font-weight: 400;
-margin-bottom: 47px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 47px;
 }
-.Image-section{
+
+.Image-section {
     display: flex;
-   
+
 }
-.img1{
-    
+
+.img1 {
+
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-   margin-right: 24px;
-   
+    margin-right: 24px;
+
 
 }
-#image1{
-    padding:110px 78px 67px 76px;
-    
+
+#image1 {
+    padding: 110px 78px 67px 76px;
+
 }
-.img2{
+
+.img2 {
     border-radius: 300px 300px 0px 0px;
-background: rgba(5, 151, 160, 0.15);
-margin-right: 24px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-right: 24px;
 }
-#image2{
+
+#image2 {
     padding: 117px 47px 118px 47px;
 }
-.img3{
+
+.img3 {
     border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
-margin-right: 24px;
-}
-#image3{
-padding:67px 75px 67px 75px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-right: 24px;
 }
 
+#image3 {
+    padding: 67px 75px 67px 75px;
+}
 
+.fig {
+    display: flex;
+}
+
+.text1 {
+    text-decoration: underline;
+    margin: 32px 380px 0px 160px;
+}
+
+.text2 {
+    text-decoration: underline;
+    margin: 32px 380px 0px 0px;
+}
+
+.text3 {
+    text-decoration: underline;
+    margin-top: 32px;
+}
 
 
 /* Hot-deal-section style starts */
@@ -172,43 +198,49 @@ padding:67px 75px 67px 75px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
-    margin-bottom: 50px;  
+    margin-bottom: 50px;
 }
+
 /* instagram section style ends */
 
 
 
 
 /* latest deal section starts*/
-.latest-deal{
-background-image: url('../Flower Asset/Rectangle 9.png');
-text-align: center;
-margin: 100px 430px 100px 415px;
-border-radius: 8px;
+.latest-deal {
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    text-align: center;
+    margin: 100px 430px 100px 415px;
+    border-radius: 8px;
 }
-.deal-title{
+
+.deal-title {
     color: #272727;
-font-size: 40px;
-font-weight: 800;
-padding-top: 100px;
-margin-bottom: 0px;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 100px;
+    margin-bottom: 0px;
 }
-.deal-description{
+
+.deal-description {
     color: rgba(39, 39, 39, 0.60);
-font-size: 18px;
-font-weight: 400;
-margin-bottom: 45px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 45px;
 }
-#input{
+
+#input {
     width: 700px;
-height: 60px;
-border-radius: 8px;
-margin-bottom: 120px;
-padding-left: 20px;
+    height: 60px;
+    border-radius: 8px;
+    margin-bottom: 120px;
+    padding-left: 20px;
 }
-.input-unit{
+
+.input-unit {
     align-items: center;
 }
+
 /* Latest deal section Ends */
 
 
@@ -216,34 +248,38 @@ padding-left: 20px;
 
 
 /* footer section */
-footer{
+footer {
     text-align: center;
-    
- background: #111010;
+
+    background: #111010;
 }
 
-.flower-color{
-    color:#FFFFFF;
- 
+.flower-color {
+    color: #FFFFFF;
+
 }
-.footer-heading{
-   padding-top: 115px;
-   margin-bottom: 24px;
-    color:#E55473;
-font-size: 48px;
-font-weight: 800;
+
+.footer-heading {
+    padding-top: 115px;
+    margin-bottom: 24px;
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
 }
-.footer-description{
+
+.footer-description {
     color: rgba(255, 255, 255, 0.90);
-text-align: center;
-font-size: 18px;
-font-weight: 400;
-margin-bottom: 24px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 24px;
 }
-.last-description{
+
+.last-description {
     color: rgba(255, 255, 255, 0.40);
-font-size: 16px;
-font-weight: 400;
-padding-bottom: 128px;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 128px;
 }
+
 /* footer section ends */
