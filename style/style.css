@@ -51,17 +51,16 @@ body {
 button:hover {
     background-color: #272727;
 }
-
 /* header style Ends */
 
 
+
+
 /* Bonus Section 2 style */
-
-
 .bonus-section2 {
     display: flex;
     margin-left: 170px;
-    
+
 }
 
 .colum1 {
@@ -101,7 +100,7 @@ button:hover {
     margin: 0px 265px 58px 210px;
 }
 
-/* colum 2 styles */
+
 .colum2 {
     background: #0F1910;
 }
@@ -121,25 +120,29 @@ button:hover {
     font-weight: 400;
     margin: 2px 59px 2px 56px;
 }
-.colum2-description2{
+
+.colum2-description2 {
     color: #E32C89;
-text-align: center;
-font-size: 26px;
-font-weight: 400;
-margin: 0px 62px 30px 53px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0px 62px 30px 53px;
 }
-.icons{
+
+.icons {
     display: flex;
     margin-left: 220px;
 }
-.Icons:hover{
+
+.Icons:hover {
     background-color: #FFF;
-    
-}
-.Icons{
-    margin-right: 80px;
+
 }
 
+.Icons {
+    margin-right: 80px;
+}
+/* Bonus Section 2 Style Ends */
 
 
 
@@ -227,6 +230,31 @@ margin: 0px 62px 30px 53px;
 }
 
 /* Bonus Section Style Ends */
+
+
+
+
+
+/* Optional Section Style */
+.Optional {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    align-items: center;
+    margin: 0px 410px 100px 415px;
+}
+
+.figure1 {
+    margin: 86px 190px 87px 230px;
+    padding
+}
+
+.figure2 {
+    margin-right: 190px;
+}
+
+/* Optional Section Style Ends */
+
 
 
 
