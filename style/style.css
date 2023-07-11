@@ -54,6 +54,80 @@ button:hover {
 
 /* header style Ends */
 
+
+/* Bonus Section 2 style */
+
+
+.bonus-section2 {
+    display: flex;
+    margin-left: 170px;
+    
+}
+
+.colum1 {
+    background: #FAE3E3;
+    display: flex;
+}
+
+.colum-image {
+    width: 612px;
+    height: 409px;
+}
+
+.colum-title {
+    color: #C6006B;
+    font-size: 45px;
+    font-weight: 700;
+    margin: 47px 80px 25px 60px;
+}
+
+.colum-description {
+    color: #000;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0px 60px 22px 8px;
+}
+
+.price {
+    color: #C6006B;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 0px 309px 26px 253px;
+}
+
+#button {
+    margin: 0px 265px 58px 210px;
+}
+
+/* colum 2 styles */
+.colum2 {
+    background: #0F1910;
+}
+
+.colum2-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 80px 75px 0px 78px;
+}
+
+.colum2-description {
+    color: #D3D3D3;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 2px 59px 2px 56px;
+}
+.colum2-description2{
+    color: #E32C89;
+text-align: center;
+font-size: 26px;
+font-weight: 400;
+margin: 0px 62px 30px 53px;
+}
 /* Bonus Section Style */
 .bonus-section {
 
@@ -136,6 +210,7 @@ button:hover {
     text-decoration: underline;
     margin-top: 32px;
 }
+
 /* Bonus Section Style Ends */
 
 
