@@ -54,6 +54,32 @@ button:hover {
 
 /* header style Ends */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Hot-deal-section style starts */
 .formate {
     display: flex;
@@ -122,6 +148,36 @@ button:hover {
 
 
 /* latest deal section starts*/
+.latest-deal{
+background-image: url('../Flower Asset/Rectangle 9.png');
+text-align: center;
+margin: 100px 305px 100px 290px;
+border-radius: 8px;
+}
+.deal-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-top: 100px;
+margin-bottom: 0px;
+}
+.deal-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 45px;
+}
+#input{
+    width: 700px;
+height: 60px;
+border-radius: 8px;
+margin-bottom: 120px;
+padding-left: 20px;
+}
+.input-unit{
+    align-items: center;
+}
+/* Latest deal section Ends */
 
 
 /* footer section */
